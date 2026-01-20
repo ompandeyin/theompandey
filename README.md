@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/theompandey
-- LinkedIn: https://linkedin.com/in/theompandey
+- GitHub: https://github.com/ompandeyin
+- LinkedIn: https://linkedin.com/in/ompandeyin
